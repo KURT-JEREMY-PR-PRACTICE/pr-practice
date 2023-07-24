@@ -6,6 +6,6 @@ Question 3: What is your favorite food? nacho
 
 Question 4: What is your favorite movie? Pitch Black
 
-Question 5: What is your favorite book?
+Question 5: What is your favorite book? The giving tree
 
 Question 6: What is your favorite place you've traveled?
